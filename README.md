@@ -24,9 +24,10 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <p align="center">
-<img algin="center" src="https://github-readme-stats.vercel.app/api?username=s1lv3Dev&show_icons=true&theme=github_dark">
-<br>
 <img algin="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1lv3Dev&layout=compact&theme=github_dark">
+<br>
+<br>
+<img algin="center" src="https://github-readme-stats.vercel.app/api?username=s1lv3Dev&show_icons=true&theme=github_dark">
 </p>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1lv3Dev&show_icons=true&theme=github_dark)

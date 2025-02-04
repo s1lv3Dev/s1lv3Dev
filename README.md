@@ -23,8 +23,8 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1lv3Dev&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1lv3Dev&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1lv3Dev&layout=compact&theme=github_dark)
 
 Credits: [s1lv3Dev](https://github.com/s1lv3Dev)
 

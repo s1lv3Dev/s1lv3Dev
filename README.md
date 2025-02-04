@@ -24,6 +24,7 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <img algin="center" href="https://github-readme-stats.vercel.app/api?username=s1lv3Dev&show_icons=true&theme=github_dark">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1lv3Dev&show_icons=true&theme=github_dark)
 
 

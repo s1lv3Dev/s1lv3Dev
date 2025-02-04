@@ -23,6 +23,10 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
+<a href="https://github.com/s1lv3Dev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=s1lv3Dev&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+</a>
+
 Credits: [s1lv3Dev](https://github.com/s1lv3Dev)
 
 Last Edited on: 04/02/2025

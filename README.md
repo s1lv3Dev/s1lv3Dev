@@ -14,12 +14,15 @@
     ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)-->
     [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
-- ## IDEs & Tools
+- ## IDEs
     <!--![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
     ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat)
     ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat)
     ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)-->
-    [![My Skills](https://skillicons.dev/icons?i=vscode,idea,sublime,linux,mint,windows)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=vscode,idea,sublime)](https://skillicons.dev)
+
+- ## Tools
+    [![My Skills](https://skillicons.dev/icons?i=astro,linux,mint,windows,ubuntu)](https://skillicons.dev)
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 

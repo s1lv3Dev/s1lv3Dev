@@ -40,4 +40,4 @@
 
 Credits: [s1lv3Dev](https://github.com/s1lv3Dev)
 
-Last Edited on: 04/02/2025
+Last Edited on: 19/03/2025
